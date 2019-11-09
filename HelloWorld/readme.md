@@ -1,0 +1,1 @@
+Example program with basic CLI text output and a template makefile
