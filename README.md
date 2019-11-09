@@ -4,3 +4,6 @@
 
 ## Hello World
 Proof of concept to make sure I understand the compilation process and structure of a Switch program
+
+## Dump Draw
+Crappy etch-a-sketch to get me familiar with input detection
